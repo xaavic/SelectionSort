@@ -5,6 +5,9 @@ import java.util.Scanner;
 public class Main {
 
 public static void main(String[] args) {
+    
+    
+        System.out.print("Xavi Caballé Navarro: He aprés molt fent el mòdul 8 de DAW encara que hagi estat dur!!!");
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Introdueix la mida de l'array: ");
